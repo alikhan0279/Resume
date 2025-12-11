@@ -4,6 +4,7 @@
 **Location:** Al Ahsa, Saudi Arabia | **Phone:** +966 59 332 3842
 **Email:** [alisalah2500.as@gmail.com](mailto:alisalah2500.as@gmail.com)
 **LinkedIn:** [linkedin.com/in/alikhan0279](https://www.linkedin.com/in/alikhan0279)
+<a href="resume.pdf" style="background-color: #159957; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Download Resume</a>
 
 ---
 
