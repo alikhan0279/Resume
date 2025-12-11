@@ -64,4 +64,24 @@ Google Certified Data Analyst with hands-on experience in Excel, SQL, and Power 
 
 ## Certifications
 
-* **[Google Data Analytics Professional Certificate](
+* **[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/CCPB95SSGNWW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)** – Coursera
+* **[Associate Data Analyst in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/3733f3d0ffc28f31ce283329a75fbac8c5ed5cac)** – Datacamp
+* **[Data Analyst in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/track/567127feccca684bd16c1f42dd0a29c7c58ce731?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)** – Datacamp
+* **[Excel Fundamentals & Data Analysis with Power Tools](https://www.datacamp.com/completed/statement-of-accomplishment/track/17932207664f29a7dfe742fcdbde24bff182cd45)** – Datacamp
+
+---
+
+## Leadership & Activities
+
+**Content Lead**
+*Google Developer Student Clubs (GDSC) - KIET*
+*Jul 2023 – Oct 2024*
+
+* Led content strategy for technical workshops, helping to increase student engagement and practical skills.
+* Collaborated with a team to promote and organize tech-focused events for the campus community.
+
+---
+
+## Languages
+* **English:** Professional Proficiency
+* **Urdu:** Native
