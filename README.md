@@ -1,10 +1,10 @@
 # Ali Salahuddin
 
-### Google Certified Data Analyst
+### Data Analyst
 **Location:** Al Ahsa, Saudi Arabia | **Phone:** +966 59 332 3842
 **Email:** [alisalah2500.as@gmail.com](mailto:alisalah2500.as@gmail.com)
 **LinkedIn:** [linkedin.com/in/alikhan0279](https://www.linkedin.com/in/alikhan0279)
-[Download Resume (PDF)](./resume.pdf)
+
 <p align="center">
   <a href="./resume.pdf" class="btn">Download Resume (PDF)</a>
 </p>
@@ -47,7 +47,7 @@ Google Certified Data Analyst with hands-on experience in Excel, SQL, and Power 
 
 ## Projects
 
-### Interactive Sales Dashboard using Power BI
+### [Interactive Sales Dashboard using Power BI](https://speps-my.sharepoint.com/personal/alisalahuddin_speps_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Falisalahuddin%5Fspeps%5Fonmicrosoft%5Fcom%2FDocuments%2FPower%20Bi%2F1%2Epbix&parent=%2Fpersonal%2Falisalahuddin%5Fspeps%5Fonmicrosoft%5Fcom%2FDocuments%2FPower%20Bi&ga=1)
 * **Objective:** Designed and launched a comprehensive Power BI dashboard to analyze sales data for electronics, furniture, and clothing across multiple regions.
 * **Features:** Built interactive visualizations with filters and drill-down capabilities to track product and regional performance. Consolidated and transformed data from multiple Excel sources to ensure accuracy.
 * **Impact:** Delivered actionable insights into sales trends, enabling a streamlined reporting process and supporting data-driven inventory and marketing decisions.
@@ -64,24 +64,4 @@ Google Certified Data Analyst with hands-on experience in Excel, SQL, and Power 
 
 ## Certifications
 
-* **Google Data Analytics Professional Certificate** – Coursera
-* **Associate Data Analyst in SQL** – Datacamp
-* **Data Analyst in Power BI** – Datacamp
-* **Excel Fundamentals & Data Analysis with Power Tools** – Datacamp
-
----
-
-## Leadership & Activities
-
-**Content Lead**
-*Google Developer Student Clubs (GDSC) - KIET*
-*Jul 2023 – Oct 2024*
-
-* Led content strategy for technical workshops, helping to increase student engagement and practical skills.
-* Collaborated with a team to promote and organize tech-focused events for the campus community.
-
----
-
-## Languages
-* **English:** Professional Proficiency
-* **Urdu:** Native
+* **[Google Data Analytics Professional Certificate](
